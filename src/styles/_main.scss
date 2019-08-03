@@ -1,2 +1,9 @@
 @import 'variables.scss';
 @import 'header/header.scss';
+@import 'nanny/nanny-listing.scss';
+
+.page-title {
+  font-size: 2rem;
+  font-weight: 700px;
+  margin-bottom: 1.25rem;
+}
