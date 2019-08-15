@@ -32,11 +32,11 @@ const Header = () => {
           </button>
           <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div className="navbar-nav ml-auto">
-              <button type="button" className="button-link nav-item nav-link active">
+              <button type="button" className="button-link nav-item nav-link mr-3">
                 Log In
                 <span className="sr-only">(current)</span>
               </button>
-              <button type="button" className="button-link nav-item nav-link">
+              <button type="button" className="btn nav-item nav-link btn-register px-3">
                 Register
               </button>
             </div>
